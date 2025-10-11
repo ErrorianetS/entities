@@ -1,0 +1,1442 @@
+[
+  {
+    "id": 1,
+    "spritePath": "turret_barrel.png",
+    "type": 1,
+    "constantsTable": "Buildings.Turret"
+  },
+  {
+    "id": 2,
+    "spritePath": "core_2.png",
+    "type": 2,
+    "constantsTable": "Buildings.Core"
+  },
+  {
+    "id": 3,
+    "spritePath": "cannon_barrel.png",
+    "type": 3,
+    "constantsTable": "Buildings.Cannon"
+  },
+  {
+    "id": 4,
+    "spritePath": "reactor_rotator.png",
+    "type": 4,
+    "constantsTable": "Buildings.Reactor"
+  },
+  {
+    "id": 5,
+    "spritePath": "void_ray_barrel_2.png",
+    "type": 5,
+    "constantsTable": "Buildings.VoidRay"
+  },
+  {
+    "id": 6,
+    "spritePath": "missile_turret.png",
+    "type": 6,
+    "constantsTable": "Buildings.MissileTurret"
+  },
+  {
+    "id": 7,
+    "spritePath": "shield_generator.png",
+    "type": 7,
+    "constantsTable": "Buildings.ShieldGenerator"
+  },
+  {
+    "id": 8,
+    "spritePath": "ore_miner.png",
+    "type": 8,
+    "constantsTable": "Buildings.MineralMiner"
+  },
+  {
+    "id": 9,
+    "spritePath": "wall.png",
+    "type": 9,
+    "constantsTable": "Walls.Wall"
+  },
+  {
+    "id": 10,
+    "spritePath": "ion_cannon.png",
+    "type": 10,
+    "constantsTable": "Buildings.IonCannon"
+  },
+  {
+    "id": 11,
+    "spritePath": "mini_fighter.png",
+    "type": 11,
+    "constantsTable": "Buildings.Fighter"
+  },
+  {
+    "id": 12,
+    "spritePath": "thruster_small.png",
+    "type": 12,
+    "constantsTable": "Buildings.Thruster"
+  },
+  {
+    "id": 14,
+    "spritePath": "bridge_black.png",
+    "type": 14,
+    "constantsTable": "Buildings.Bridge"
+  },
+  {
+    "id": 16,
+    "spritePath": "lattice.png",
+    "type": 16,
+    "constantsTable": "Floors.Lattice"
+  },
+  {
+    "id": 17,
+    "spritePath": "sealed_door.png",
+    "type": 17,
+    "constantsTable": "Buildings.SealedDoor"
+  },
+  {
+    "id": 18,
+    "spritePath": "airlock_hinge.png",
+    "type": 18,
+    "constantsTable": "Buildings.Airlock"
+  },
+  {
+    "id": 19,
+    "spritePath": "solar_panel.png",
+    "type": 19,
+    "constantsTable": "Buildings.SolarPanel"
+  },
+  {
+    "id": 20,
+    "spritePath": "oxygen_tank.png",
+    "type": 20,
+    "constantsTable": "Buildings.OxygenTank"
+  },
+  {
+    "id": 22,
+    "spritePath": "wire_0.png",
+    "type": 22,
+    "constantsTable": "Buildings.Wire"
+  },
+  {
+    "id": 23,
+    "spritePath": "soil.png",
+    "type": 23,
+    "constantsTable": "Floors.Soil"
+  },
+  {
+    "id": 24,
+    "spritePath": "wheat_seed.png",
+    "type": 24,
+    "constantsTable": "Crops.WheatSeed"
+  },
+  {
+    "id": 25,
+    "spritePath": "fridge.png",
+    "type": 25,
+    "constantsTable": "Buildings.Fridge"
+  },
+  {
+    "id": 26,
+    "spritePath": "wood_floor.png",
+    "type": 26,
+    "constantsTable": "Floors.WoodFloor"
+  },
+  {
+    "id": 27,
+    "spritePath": "red_carpet.png",
+    "type": 27,
+    "constantsTable": "Floors.CarpetFloor"
+  },
+  {
+    "id": 28,
+    "spritePath": "tiled_floor.png",
+    "type": 28,
+    "constantsTable": "Floors.TiledFloor"
+  },
+  {
+    "id": 29,
+    "spritePath": "bed.png",
+    "type": 29,
+    "constantsTable": "Buildings.Bed"
+  },
+  {
+    "id": 30,
+    "spritePath": "water_pump.png",
+    "type": 30,
+    "constantsTable": "Buildings.WaterPump"
+  },
+  {
+    "id": 31,
+    "spritePath": "ventilator.png",
+    "type": 31,
+    "constantsTable": "Buildings.Ventilator"
+  },
+  {
+    "id": 32,
+    "spritePath": "mining_gun.png",
+    "type": 32,
+    "constantsTable": "Equipments.SurvivalTool"
+  },
+  {
+    "id": 33,
+    "spritePath": "ice_ore.png",
+    "type": 33,
+    "constantsTable": "Ores.IceOre"
+  },
+  {
+    "id": 34,
+    "spritePath": "pistol.png",
+    "type": 34,
+    "constantsTable": "Equipments.Pistol"
+  },
+  {
+    "id": 35,
+    "spritePath": "alien_meat.png",
+    "type": 35,
+    "constantsTable": "Foods.AlienMeat"
+  },
+  {
+    "id": 36,
+    "spritePath": "steak.png",
+    "type": 36,
+    "constantsTable": "Foods.Steak"
+  },
+  {
+    "id": 37,
+    "spritePath": "stove.png",
+    "type": 37,
+    "constantsTable": "Buildings.Stove"
+  },
+  {
+    "id": 38,
+    "spritePath": "steel_crate.png",
+    "type": 38,
+    "constantsTable": "Buildings.SteelCrate"
+  },
+  {
+    "id": 39,
+    "spritePath": "bullet_ammo.png",
+    "type": 39,
+    "constantsTable": "Ammos.BulletAmmo"
+  },
+  {
+    "id": 40,
+    "spritePath": "lead_pipe.png",
+    "type": 40,
+    "constantsTable": "Equipments.LeadPipe"
+  },
+  {
+    "id": 41,
+    "spritePath": "space_helmet_2.png",
+    "type": 41,
+    "constantsTable": "Equipments.SpaceSuit"
+  },
+  {
+    "id": 42,
+    "spritePath": "fire_extinguisher.png",
+    "type": 42,
+    "constantsTable": "Equipments.FireExtinguisher"
+  },
+  {
+    "id": 43,
+    "spritePath": "computer_terminal.png",
+    "type": 43,
+    "constantsTable": "Buildings.Terminal"
+  },
+  {
+    "id": 44,
+    "spritePath": "cage_2.png",
+    "type": 44,
+    "constantsTable": "Buildings.Cage"
+  },
+  {
+    "id": 45,
+    "spritePath": "syringe.png",
+    "type": 45,
+    "constantsTable": "Equipments.Syringe"
+  },
+  {
+    "id": 46,
+    "spritePath": "beaker.png",
+    "type": 46,
+    "constantsTable": "Buildings.Beaker"
+  },
+  {
+    "id": 52,
+    "spritePath": "copper_ore.png",
+    "type": 52,
+    "constantsTable": "Ores.CopperOre"
+  },
+  {
+    "id": 54,
+    "spritePath": "nitro_powder.png",
+    "type": 54,
+    "constantsTable": "Ores.NitroPowder"
+  },
+  {
+    "id": 55,
+    "spritePath": "wheat.png",
+    "type": 55,
+    "constantsTable": "Foods.Wheat"
+  },
+  {
+    "id": 56,
+    "spritePath": "ammo_printer.png",
+    "type": 56,
+    "constantsTable": "Buildings.AmmoPrinter"
+  },
+  {
+    "id": 57,
+    "spritePath": "sentry_turret.png",
+    "type": 57,
+    "constantsTable": "Buildings.MiniTurret"
+  },
+  {
+    "id": 58,
+    "spritePath": "steel_table.png",
+    "type": 58,
+    "constantsTable": "Buildings.Table"
+  },
+  {
+    "id": 59,
+    "spritePath": "steel_chair.png",
+    "type": 59,
+    "constantsTable": "Buildings.Chair"
+  },
+  {
+    "id": 60,
+    "spritePath": "platform_chromeless_plated.png",
+    "type": 60,
+    "constantsTable": "Floors.SteelFloor"
+  },
+  {
+    "id": 61,
+    "spritePath": "research_table_2.png",
+    "type": 61,
+    "constantsTable": "Buildings.ResearchTable"
+  },
+  {
+    "id": 62,
+    "spritePath": "flame_thrower.png",
+    "type": 62,
+    "constantsTable": "Equipments.FlameThrower"
+  },
+  {
+    "id": 63,
+    "spritePath": "purple_floor.png",
+    "type": 63,
+    "constantsTable": "Floors.PurpleFloor"
+  },
+  {
+    "id": 64,
+    "spritePath": "plated_floor.png",
+    "type": 64,
+    "constantsTable": "Floors.PlatedFloor"
+  },
+  {
+    "id": 65,
+    "spritePath": "stripe_plated_floor.png",
+    "type": 65,
+    "constantsTable": "Floors.StripePlatedFloor"
+  },
+  {
+    "id": 66,
+    "spritePath": "green_floor.png",
+    "type": 66,
+    "constantsTable": "Floors.GreenFloor"
+  },
+  {
+    "id": 67,
+    "spritePath": "television.png",
+    "type": 67,
+    "constantsTable": "Buildings.Television"
+  },
+  {
+    "id": 68,
+    "spritePath": "pot.png",
+    "type": 68,
+    "constantsTable": "Buildings.Pot"
+  },
+  {
+    "id": 70,
+    "spritePath": "steel_ore.png",
+    "type": 70,
+    "constantsTable": "Ores.SteelOre"
+  },
+  {
+    "id": 71,
+    "spritePath": "air_alarm.png",
+    "type": 71,
+    "constantsTable": "Buildings.AirAlarm"
+  },
+  {
+    "id": 72,
+    "spritePath": "pipe_1.png",
+    "type": 72,
+    "constantsTable": "Buildings.GasPipe"
+  },
+  {
+    "id": 73,
+    "spritePath": "lower_door.png",
+    "type": 73,
+    "constantsTable": "Buildings.ManualAirlock"
+  },
+  {
+    "id": 74,
+    "spritePath": "oxygen_tank.png",
+    "type": 74,
+    "constantsTable": "Buildings.SmallOxygenTank"
+  },
+  {
+    "id": 75,
+    "spritePath": "mop.png",
+    "type": 75,
+    "constantsTable": "Equipments.Mop"
+  },
+  {
+    "id": 76,
+    "spritePath": "lamp_2.png",
+    "type": 76,
+    "constantsTable": "Buildings.Lamp"
+  },
+  {
+    "id": 77,
+    "spritePath": "bottle.png",
+    "type": 77,
+    "constantsTable": "Equipments.Bottle"
+  },
+  {
+    "id": 78,
+    "spritePath": "furnace.png",
+    "type": 78,
+    "constantsTable": "Buildings.Furnace"
+  },
+  {
+    "id": 79,
+    "spritePath": "copper_bar.png",
+    "type": 79,
+    "constantsTable": "Bars.CopperBar"
+  },
+  {
+    "id": 81,
+    "spritePath": "glass.png",
+    "type": 81,
+    "constantsTable": "Bars.Glass"
+  },
+  {
+    "id": 82,
+    "spritePath": "sand.png",
+    "type": 82,
+    "constantsTable": "Ores.Sand"
+  },
+  {
+    "id": 83,
+    "spritePath": "refinery.png",
+    "type": 83,
+    "constantsTable": "Buildings.Refinery"
+  },
+  {
+    "id": 84,
+    "spritePath": "gil.png",
+    "type": 84,
+    "constantsTable": "Ores.Gold"
+  },
+  {
+    "id": 86,
+    "spritePath": "water_pipe_1.png",
+    "type": 86,
+    "constantsTable": "Buildings.LiquidPipe"
+  },
+  {
+    "id": 87,
+    "spritePath": "liquid_tank.png",
+    "type": 87,
+    "constantsTable": "Buildings.LiquidTank"
+  },
+  {
+    "id": 88,
+    "spritePath": "circuit_board.png",
+    "type": 88,
+    "constantsTable": "Bars.CircuitBoard"
+  },
+  {
+    "id": 89,
+    "spritePath": "wood.png",
+    "type": 89,
+    "constantsTable": "Ores.Wood"
+  },
+  {
+    "id": 91,
+    "spritePath": "cloth.png",
+    "type": 91,
+    "constantsTable": "Ores.Cloth"
+  },
+  {
+    "id": 92,
+    "spritePath": "shotgun.png",
+    "type": 92,
+    "constantsTable": "Equipments.Shotgun"
+  },
+  {
+    "id": 93,
+    "spritePath": "suit_station.png",
+    "type": 93,
+    "constantsTable": "Buildings.SuitStation"
+  },
+  {
+    "id": 94,
+    "spritePath": "shower.png",
+    "type": 94,
+    "constantsTable": "Buildings.Shower"
+  },
+  {
+    "id": 95,
+    "spritePath": "oxygen_generator.png",
+    "type": 95,
+    "constantsTable": "Buildings.OxygenGenerator"
+  },
+  {
+    "id": 96,
+    "spritePath": "lighter.png",
+    "type": 96,
+    "constantsTable": "Equipments.Lighter"
+  },
+  {
+    "id": 97,
+    "spritePath": "cryo_tube.png",
+    "type": 97,
+    "constantsTable": "Buildings.CryoTube"
+  },
+  {
+    "id": 98,
+    "spritePath": "fiber_seed.png",
+    "type": 98,
+    "constantsTable": "Crops.FiberSeed"
+  },
+  {
+    "id": 99,
+    "spritePath": "plant_fiber.png",
+    "type": 99,
+    "constantsTable": "Ores.PlantFiber"
+  },
+  {
+    "id": 100,
+    "spritePath": "antidote.png",
+    "type": 100,
+    "constantsTable": "Foods.Antidote"
+  },
+  {
+    "id": 101,
+    "spritePath": "poison.png",
+    "type": 101,
+    "constantsTable": "Ores.Poison"
+  },
+  {
+    "id": 102,
+    "spritePath": "base_starter.png",
+    "type": 102,
+    "constantsTable": "Buildings.BaseStarter"
+  },
+  {
+    "id": 103,
+    "spritePath": "escape_pod.png",
+    "type": 103,
+    "constantsTable": "Buildings.EscapePod"
+  },
+  {
+    "id": 104,
+    "spritePath": "first_aid_kit.png",
+    "type": 104,
+    "constantsTable": "Foods.FirstAidKit"
+  },
+  {
+    "id": 105,
+    "spritePath": "iron_ore.png",
+    "type": 105,
+    "constantsTable": "Ores.IronOre"
+  },
+  {
+    "id": 106,
+    "spritePath": "iron_bar.png",
+    "type": 106,
+    "constantsTable": "Bars.IronBar"
+  },
+  {
+    "id": 107,
+    "spritePath": "mining_drill.png",
+    "type": 107,
+    "constantsTable": "Buildings.MiningDrill"
+  },
+  {
+    "id": 108,
+    "spritePath": "chemistry_station.png",
+    "type": 108,
+    "constantsTable": "Buildings.ChemistryStation"
+  },
+  {
+    "id": 109,
+    "spritePath": "gel.png",
+    "type": 109,
+    "constantsTable": "Foods.Gel"
+  },
+  {
+    "id": 110,
+    "spritePath": "gelatin.png",
+    "type": 110,
+    "constantsTable": "Foods.Gelatin"
+  },
+  {
+    "id": 111,
+    "spritePath": "beer.png",
+    "type": 111,
+    "constantsTable": "Drinks.Beer"
+  },
+  {
+    "id": 112,
+    "spritePath": "cola.png",
+    "type": 112,
+    "constantsTable": "Drinks.Cola"
+  },
+  {
+    "id": 113,
+    "spritePath": "brewery.png",
+    "type": 113,
+    "constantsTable": "Buildings.Brewery"
+  },
+  {
+    "id": 114,
+    "spritePath": "oil_refinery.png",
+    "type": 114,
+    "constantsTable": "Buildings.OilRefinery"
+  },
+  {
+    "id": 115,
+    "spritePath": "fuel_tank.png",
+    "type": 115,
+    "constantsTable": "Buildings.FuelTank"
+  },
+  {
+    "id": 116,
+    "spritePath": "chemfuel_power_generator.png",
+    "type": 116,
+    "constantsTable": "Buildings.PowerGenerator"
+  },
+  {
+    "id": 117,
+    "spritePath": "fuel_pipe_1.png",
+    "type": 117,
+    "constantsTable": "Buildings.FuelPipe"
+  },
+  {
+    "id": 118,
+    "spritePath": "stun_baton.png",
+    "type": 118,
+    "constantsTable": "Equipments.StunBaton"
+  },
+  {
+    "id": 119,
+    "spritePath": "potato_seed.png",
+    "type": 119,
+    "constantsTable": "Crops.PotatoSeed"
+  },
+  {
+    "id": 120,
+    "spritePath": "potato.png",
+    "type": 120,
+    "constantsTable": "Foods.Potato"
+  },
+  {
+    "id": 121,
+    "spritePath": "spike_trap.png",
+    "type": 121,
+    "constantsTable": "Buildings.SpikeTrap"
+  },
+  {
+    "id": 122,
+    "spritePath": "drill.png",
+    "type": 122,
+    "constantsTable": "Equipments.Drill"
+  },
+  {
+    "id": 123,
+    "spritePath": "trading_table.png",
+    "type": 123,
+    "constantsTable": "Buildings.TradingTable"
+  },
+  {
+    "id": 124,
+    "spritePath": "beacon.png",
+    "type": 124,
+    "constantsTable": "Buildings.Beacon"
+  },
+  {
+    "id": 125,
+    "spritePath": "butcher_table.png",
+    "type": 125,
+    "constantsTable": "Buildings.ButcherTable"
+  },
+  {
+    "id": 126,
+    "spritePath": "human_meat.png",
+    "type": 126,
+    "constantsTable": "Foods.HumanMeat"
+  },
+  {
+    "id": 127,
+    "spritePath": "animal_meat.png",
+    "type": 127,
+    "constantsTable": "Foods.AnimalMeat"
+  },
+  {
+    "id": 128,
+    "spritePath": "hotdog.png",
+    "type": 128,
+    "constantsTable": "Foods.HotDog"
+  },
+  {
+    "id": 129,
+    "spritePath": "katana_reskin.png",
+    "type": 129,
+    "constantsTable": "Equipments.Katana"
+  },
+  {
+    "id": 130,
+    "spritePath": "vegan_pizza.png",
+    "type": 130,
+    "constantsTable": "Foods.VeganPizza"
+  },
+  {
+    "id": 131,
+    "spritePath": "slimy_meat_pizza.png",
+    "type": 131,
+    "constantsTable": "Foods.SlimyMeatPizza"
+  },
+  {
+    "id": 132,
+    "spritePath": "lecters_dinner.png",
+    "type": 132,
+    "constantsTable": "Foods.LectersDinner"
+  },
+  {
+    "id": 133,
+    "spritePath": "molotov_cocktail.png",
+    "type": 133,
+    "constantsTable": "Equipments.MolotovCocktail"
+  },
+  {
+    "id": 134,
+    "spritePath": "grenade.png",
+    "type": 134,
+    "constantsTable": "Equipments.Grenade"
+  },
+  {
+    "id": 135,
+    "spritePath": "poison_grenade.png",
+    "type": 135,
+    "constantsTable": "Equipments.PoisonGrenade"
+  },
+  {
+    "id": 136,
+    "spritePath": "blood_bottle.png",
+    "type": 136,
+    "constantsTable": "Equipments.BloodBottle"
+  },
+  {
+    "id": 137,
+    "spritePath": "blood_pack.png",
+    "type": 137,
+    "constantsTable": "Foods.BloodPack"
+  },
+  {
+    "id": 138,
+    "spritePath": "stimpack.png",
+    "type": 138,
+    "constantsTable": "Foods.Stimpack"
+  },
+  {
+    "id": 139,
+    "spritePath": "rail_track.png",
+    "type": 139,
+    "constantsTable": "Buildings.RailTrack"
+  },
+  {
+    "id": 141,
+    "spritePath": "rail_stop.png",
+    "type": 141,
+    "constantsTable": "Buildings.RailStop"
+  },
+  {
+    "id": 142,
+    "spritePath": "sign.png",
+    "type": 142,
+    "constantsTable": "Buildings.Sign"
+  },
+  {
+    "id": 143,
+    "spritePath": "web.png",
+    "type": 143,
+    "constantsTable": "Ores.Web"
+  },
+  {
+    "id": 144,
+    "spritePath": "web_trap.png",
+    "type": 144,
+    "constantsTable": "Buildings.WebTrap"
+  },
+  {
+    "id": 145,
+    "spritePath": "assault_rifle.png",
+    "type": 145,
+    "constantsTable": "Equipments.AssaultRifle"
+  },
+  {
+    "id": 146,
+    "spritePath": "rifle_ammo.png",
+    "type": 146,
+    "constantsTable": "Ammos.RifleAmmo"
+  },
+  {
+    "id": 147,
+    "spritePath": "shotgun_shell.png",
+    "type": 147,
+    "constantsTable": "Ammos.ShotgunShell"
+  },
+  {
+    "id": 148,
+    "spritePath": "combat_armor.png",
+    "type": 148,
+    "constantsTable": "Equipments.CombatArmor"
+  },
+  {
+    "id": 149,
+    "spritePath": "large_steel_table.png",
+    "type": 149,
+    "constantsTable": "Buildings.LargeTable"
+  },
+  {
+    "id": 150,
+    "spritePath": "food_vending_machine.png",
+    "type": 150,
+    "constantsTable": "Buildings.FoodVendingMachine"
+  },
+  {
+    "id": 151,
+    "spritePath": "drinks_vending_machine.png",
+    "type": 151,
+    "constantsTable": "Buildings.DrinksVendingMachine"
+  },
+  {
+    "id": 152,
+    "spritePath": "atm.png",
+    "type": 152,
+    "constantsTable": "Buildings.Atm"
+  },
+  {
+    "id": 153,
+    "spritePath": "coffee_seed.png",
+    "type": 153,
+    "constantsTable": "Crops.CoffeeSeed"
+  },
+  {
+    "id": 154,
+    "spritePath": "coffee_bean.png",
+    "type": 154,
+    "constantsTable": "Ores.CoffeeBean"
+  },
+  {
+    "id": 155,
+    "spritePath": "coffee.png",
+    "type": 155,
+    "constantsTable": "Drinks.Coffee"
+  },
+  {
+    "id": 156,
+    "spritePath": "yellow_floor.png",
+    "type": 156,
+    "constantsTable": "Floors.YellowFloor"
+  },
+  {
+    "id": 157,
+    "spritePath": "bronze_floor.png",
+    "type": 157,
+    "constantsTable": "Floors.BronzeFloor"
+  },
+  {
+    "id": 159,
+    "spritePath": "blue_floor.png",
+    "type": 159,
+    "constantsTable": "Floors.BlueFloor"
+  },
+  {
+    "id": 160,
+    "spritePath": "gray_floor.png",
+    "type": 160,
+    "constantsTable": "Floors.GrayFloor"
+  },
+  {
+    "id": 161,
+    "spritePath": "grass_floor.png",
+    "type": 161,
+    "constantsTable": "Floors.GrassFloor"
+  },
+  {
+    "id": 162,
+    "spritePath": "pink_floor.png",
+    "type": 162,
+    "constantsTable": "Floors.PinkFloor"
+  },
+  {
+    "id": 163,
+    "spritePath": "blue_wall.png",
+    "type": 163,
+    "constantsTable": "Walls.BlueWall"
+  },
+  {
+    "id": 164,
+    "spritePath": "green_wall.png",
+    "type": 164,
+    "constantsTable": "Walls.GreenWall"
+  },
+  {
+    "id": 165,
+    "spritePath": "white_wall.png",
+    "type": 165,
+    "constantsTable": "Walls.IvoryWall"
+  },
+  {
+    "id": 166,
+    "spritePath": "sunflower_seed.png",
+    "type": 166,
+    "constantsTable": "Crops.SunflowerSeed"
+  },
+  {
+    "id": 167,
+    "spritePath": "sunflower.png",
+    "type": 167,
+    "constantsTable": "Ores.Sunflower"
+  },
+  {
+    "id": 168,
+    "spritePath": "blue_seed.png",
+    "type": 168,
+    "constantsTable": "Crops.BlueSeed"
+  },
+  {
+    "id": 169,
+    "spritePath": "blue_lotus.png",
+    "type": 169,
+    "constantsTable": "Ores.BlueLotus"
+  },
+  {
+    "id": 170,
+    "spritePath": "poppy_seed.png",
+    "type": 170,
+    "constantsTable": "Crops.PoppySeed"
+  },
+  {
+    "id": 171,
+    "spritePath": "poppy.png",
+    "type": 171,
+    "constantsTable": "Ores.Poppy"
+  },
+  {
+    "id": 172,
+    "spritePath": "farm_controller.png",
+    "type": 172,
+    "constantsTable": "Buildings.FarmController"
+  },
+  {
+    "id": 173,
+    "spritePath": "water_bottle.png",
+    "type": 173,
+    "constantsTable": "Equipments.WaterBottle"
+  },
+  {
+    "id": 174,
+    "spritePath": "slavers_table.png",
+    "type": 174,
+    "constantsTable": "Buildings.SlaversTable"
+  },
+  {
+    "id": 175,
+    "spritePath": "bread.png",
+    "type": 175,
+    "constantsTable": "Foods.Bread"
+  },
+  {
+    "id": 176,
+    "spritePath": "flamethrower_turret.png",
+    "type": 176,
+    "constantsTable": "Buildings.FlamethrowerTurret"
+  },
+  {
+    "id": 177,
+    "spritePath": "name_tag.png",
+    "type": 177,
+    "constantsTable": "Equipments.NameTag"
+  },
+  {
+    "id": 178,
+    "spritePath": "fence.png",
+    "type": 178,
+    "constantsTable": "Buildings.Fence"
+  },
+  {
+    "id": 179,
+    "spritePath": "deep_drill.png",
+    "type": 179,
+    "constantsTable": "Buildings.DeepDrill"
+  },
+  {
+    "id": 180,
+    "spritePath": "sulfur_ore.png",
+    "type": 180,
+    "constantsTable": "Ores.SulfurOre"
+  },
+  {
+    "id": 181,
+    "spritePath": "explosives.png",
+    "type": 181,
+    "constantsTable": "Ores.Explosives"
+  },
+  {
+    "id": 182,
+    "spritePath": "missile_ammo.png",
+    "type": 182,
+    "constantsTable": "Ammos.Missile"
+  },
+  {
+    "id": 183,
+    "spritePath": "vodka.png",
+    "type": 183,
+    "constantsTable": "Drinks.Vodka"
+  },
+  {
+    "id": 184,
+    "spritePath": "meteorite.png",
+    "type": 184,
+    "constantsTable": "Ores.Meteorite"
+  },
+  {
+    "id": 185,
+    "spritePath": "blue_energy_sword.png",
+    "type": 185,
+    "constantsTable": "Equipments.BlueEnergySword"
+  },
+  {
+    "id": 186,
+    "spritePath": "green_energy_sword.png",
+    "type": 186,
+    "constantsTable": "Equipments.GreenEnergySword"
+  },
+  {
+    "id": 187,
+    "spritePath": "red_energy_sword.png",
+    "type": 187,
+    "constantsTable": "Equipments.RedEnergySword"
+  },
+  {
+    "id": 188,
+    "spritePath": "forge.png",
+    "type": 188,
+    "constantsTable": "Buildings.Forge"
+  },
+  {
+    "id": 189,
+    "spritePath": "disinfectant.png",
+    "type": 189,
+    "constantsTable": "Equipments.Disinfectant"
+  },
+  {
+    "id": 190,
+    "spritePath": "solid_texture.png",
+    "type": 190,
+    "constantsTable": "Floors.Floor"
+  },
+  {
+    "id": 191,
+    "spritePath": "wrench.png",
+    "type": 191,
+    "constantsTable": "Equipments.Wrench"
+  },
+  {
+    "id": 201,
+    "spritePath": "black.png",
+    "type": 201,
+    "constantsTable": "Terrains.Oil"
+  },
+  {
+    "id": 202,
+    "spritePath": "rock_2.png",
+    "type": 202,
+    "constantsTable": "Terrains.Rock"
+  },
+  {
+    "id": 204,
+    "spritePath": "lava.png",
+    "type": 204,
+    "constantsTable": "Terrains.Lava"
+  },
+  {
+    "id": 205,
+    "spritePath": "water.png",
+    "type": 205,
+    "constantsTable": "Terrains.Water"
+  },
+  {
+    "id": 207,
+    "spritePath": "asteroid_2_ridge.png",
+    "type": 207,
+    "constantsTable": "Terrains.Asteroid"
+  },
+  {
+    "id": 209,
+    "spritePath": "copper_asteroid_2_ridge.png",
+    "type": 209,
+    "constantsTable": "Terrains.CopperAsteroid"
+  },
+  {
+    "id": 213,
+    "spritePath": "sky.png",
+    "type": 213,
+    "constantsTable": "Terrains.Sky"
+  },
+  {
+    "id": 214,
+    "spritePath": "meteorite_asteroid_2_ridge.png",
+    "type": 214,
+    "constantsTable": "Terrains.MeteoriteAsteroid"
+  },
+  {
+    "id": 215,
+    "spritePath": "radio.png",
+    "type": 215,
+    "constantsTable": "Equipments.Radio"
+  },
+  {
+    "id": 216,
+    "spritePath": "wood_table.png",
+    "type": 216,
+    "constantsTable": "Buildings.WoodTable"
+  },
+  {
+    "id": 217,
+    "spritePath": "wood_chair.png",
+    "type": 217,
+    "constantsTable": "Buildings.WoodChair"
+  },
+  {
+    "id": 218,
+    "spritePath": "assassins_knife.png",
+    "type": 218,
+    "constantsTable": "Equipments.AssassinsKnife"
+  },
+  {
+    "id": 219,
+    "spritePath": "emergency_button.png",
+    "type": 219,
+    "constantsTable": "Buildings.EmergencyButton"
+  },
+  {
+    "id": 220,
+    "spritePath": "security_camera.png",
+    "type": 220,
+    "constantsTable": "Buildings.SecurityCamera"
+  },
+  {
+    "id": 221,
+    "spritePath": "security_monitor.png",
+    "type": 221,
+    "constantsTable": "Buildings.SecurityMonitor"
+  },
+  {
+    "id": 222,
+    "spritePath": "timer_bomb.png",
+    "type": 222,
+    "constantsTable": "Buildings.TimerBomb"
+  },
+  {
+    "id": 223,
+    "spritePath": "power_switch.png",
+    "type": 223,
+    "constantsTable": "Buildings.PowerSwitch"
+  },
+  {
+    "id": 224,
+    "spritePath": "underground_vent.png",
+    "type": 224,
+    "constantsTable": "Buildings.UndergroundVent"
+  },
+  {
+    "id": 225,
+    "spritePath": "wall_lamp.png",
+    "type": 225,
+    "constantsTable": "Buildings.WallLamp"
+  },
+  {
+    "id": 226,
+    "spritePath": "santa_hat.png",
+    "type": 226,
+    "constantsTable": "Equipments.SantaHat"
+  },
+  {
+    "id": 227,
+    "spritePath": "red_present.png",
+    "type": 227,
+    "constantsTable": "Buildings.RedPresent"
+  },
+  {
+    "id": 228,
+    "spritePath": "blue_present.png",
+    "type": 228,
+    "constantsTable": "Buildings.BluePresent"
+  },
+  {
+    "id": 229,
+    "spritePath": "green_present.png",
+    "type": 229,
+    "constantsTable": "Buildings.GreenPresent"
+  },
+  {
+    "id": 230,
+    "spritePath": "christmas_tree.png",
+    "type": 230,
+    "constantsTable": "Buildings.ChristmasTree"
+  },
+  {
+    "id": 231,
+    "spritePath": "pocket_trader.png",
+    "type": 231,
+    "constantsTable": "Equipments.PocketTrader"
+  },
+  {
+    "id": 232,
+    "spritePath": "tesla_coil.png",
+    "type": 232,
+    "constantsTable": "Buildings.TeslaCoil"
+  },
+  {
+    "id": 233,
+    "spritePath": "tree.png",
+    "type": 233,
+    "constantsTable": "Buildings.Tree"
+  },
+  {
+    "id": 234,
+    "spritePath": "hazmat_suit_2.png",
+    "type": 234,
+    "constantsTable": "Equipments.HazmatSuit"
+  },
+  {
+    "id": 235,
+    "spritePath": "egg.png",
+    "type": 235,
+    "constantsTable": "Foods.Egg"
+  },
+  {
+    "id": 236,
+    "spritePath": "prisoner_suit.png",
+    "type": 236,
+    "constantsTable": "Equipments.PrisonerSuit"
+  },
+  {
+    "id": 237,
+    "spritePath": "police_suit.png",
+    "type": 237,
+    "constantsTable": "Equipments.PoliceSuit"
+  },
+  {
+    "id": 238,
+    "spritePath": "lab_coat.png",
+    "type": 238,
+    "constantsTable": "Equipments.LabCoat"
+  },
+  {
+    "id": 239,
+    "spritePath": "omelette.png",
+    "type": 239,
+    "constantsTable": "Foods.Omelette"
+  },
+  {
+    "id": 240,
+    "spritePath": "cultist_suit.png",
+    "type": 240,
+    "constantsTable": "Equipments.CultistSuit"
+  },
+  {
+    "id": 241,
+    "spritePath": "plasma_gun.png",
+    "type": 241,
+    "constantsTable": "Equipments.PlasmaGun"
+  },
+  {
+    "id": 242,
+    "spritePath": "plasma_cell.png",
+    "type": 242,
+    "constantsTable": "Ammos.PlasmaCell"
+  },
+  {
+    "id": 243,
+    "spritePath": "squid_lord_heart.png",
+    "type": 243,
+    "constantsTable": "Ores.SquidLordHeart"
+  },
+  {
+    "id": 244,
+    "spritePath": "squid_staff.png",
+    "type": 244,
+    "constantsTable": "Equipments.SquidStaff"
+  },
+  {
+    "id": 245,
+    "spritePath": "energy_drink.png",
+    "type": 245,
+    "constantsTable": "Drinks.EnergyDrink"
+  },
+  {
+    "id": 246,
+    "spritePath": "alien_juice.png",
+    "type": 246,
+    "constantsTable": "Drinks.AlienJuice"
+  },
+  {
+    "id": 247,
+    "spritePath": "fries.png",
+    "type": 247,
+    "constantsTable": "Foods.Fries"
+  },
+  {
+    "id": 248,
+    "spritePath": "rocket_launcher.png",
+    "type": 248,
+    "constantsTable": "Equipments.RocketLauncher"
+  },
+  {
+    "id": 249,
+    "spritePath": "scar_17_by_px.png",
+    "type": 249,
+    "constantsTable": "Equipments.Scar17"
+  },
+  {
+    "id": 250,
+    "spritePath": "bowl_by_px.png",
+    "type": 250,
+    "constantsTable": "Equipments.Bowl"
+  },
+  {
+    "id": 251,
+    "spritePath": "potato_soup_by_px.png",
+    "type": 251,
+    "constantsTable": "Foods.PotatoSoup"
+  },
+  {
+    "id": 252,
+    "spritePath": "slime_broth_by_px.png",
+    "type": 252,
+    "constantsTable": "Foods.SlimeBroth"
+  },
+  {
+    "id": 253,
+    "spritePath": "miso_soup_by_px.png",
+    "type": 253,
+    "constantsTable": "Foods.MisoSoup"
+  },
+  {
+    "id": 256,
+    "spritePath": "bomber_turret_by_px.png",
+    "type": 256,
+    "constantsTable": "Buildings.BomberTurret"
+  },
+  {
+    "id": 257,
+    "spritePath": "plasma_blade.png",
+    "type": 257,
+    "constantsTable": "Equipments.PlasmaBlade"
+  },
+  {
+    "id": 258,
+    "spritePath": "starberries.png",
+    "type": 258,
+    "constantsTable": "Foods.Starberries"
+  },
+  {
+    "id": 259,
+    "spritePath": "nihonshu.png",
+    "type": 259,
+    "constantsTable": "Drinks.Nihonshu"
+  },
+  {
+    "id": 260,
+    "spritePath": "pumpkin_seed.png",
+    "type": 260,
+    "constantsTable": "Crops.PumpkinSeed"
+  },
+  {
+    "id": 261,
+    "spritePath": "pumpkin.png",
+    "type": 261,
+    "constantsTable": "Foods.Pumpkin"
+  },
+  {
+    "id": 262,
+    "spritePath": "rice.png",
+    "type": 262,
+    "constantsTable": "Foods.Rice"
+  },
+  {
+    "id": 263,
+    "spritePath": "rice_seed.png",
+    "type": 263,
+    "constantsTable": "Crops.RiceSeed"
+  },
+  {
+    "id": 264,
+    "spritePath": "fish.png",
+    "type": 264,
+    "constantsTable": "Foods.Fish"
+  },
+  {
+    "id": 265,
+    "spritePath": "nigiri.png",
+    "type": 265,
+    "constantsTable": "Foods.Nigiri"
+  },
+  {
+    "id": 266,
+    "spritePath": "pumpkin_pie.png",
+    "type": 266,
+    "constantsTable": "Foods.PumpkinPie"
+  },
+  {
+    "id": 267,
+    "spritePath": "imperial_special_forces_armor.png",
+    "type": 267,
+    "constantsTable": "Equipments.ImperialSpecialForcesArmor"
+  },
+  {
+    "id": 268,
+    "spritePath": "deconstructor.png",
+    "type": 268,
+    "constantsTable": "Equipments.Deconstructor"
+  },
+  {
+    "id": 269,
+    "spritePath": "keypad_door.png",
+    "type": 269,
+    "constantsTable": "Buildings.KeypadDoor"
+  },
+  {
+    "id": 270,
+    "spritePath": "unbreakable_wall.png",
+    "type": 270,
+    "constantsTable": "Buildings.UnbreakableWall"
+  },
+  {
+    "id": 271,
+    "spritePath": "dynamite.png",
+    "type": 271,
+    "constantsTable": "Equipments.Dynamite"
+  },
+  {
+    "id": 272,
+    "spritePath": "miasma_gate.png",
+    "type": 272,
+    "constantsTable": "Buildings.MiasmaGate"
+  }
+]
