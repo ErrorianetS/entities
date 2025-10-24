@@ -1,0 +1,144 @@
+[
+  {
+    "Drone": {
+      "id": 0,
+      "category": "Mobs"
+    },
+    "Catapult": {
+      "id": 1,
+      "category": "Mobs"
+    },
+    "Reaver": {
+      "id": 2,
+      "category": "Mobs"
+    },
+    "Slime": {
+      "id": 3,
+      "category": "Mobs"
+    },
+    "Transporter": {
+      "id": 4,
+      "category": "Mobs"
+    },
+    "Spider": {
+      "id": 5,
+      "category": "Mobs"
+    },
+    "Human": {
+      "id": 6,
+      "category": "Mobs"
+    },
+    "Cat": {
+      "id": 7,
+      "category": "Mobs"
+    },
+    "Pirate": {
+      "id": 8,
+      "category": "Mobs"
+    },
+    "Mutant": {
+      "id": 9,
+      "category": "Mobs"
+    },
+    "Trader": {
+      "id": 10,
+      "category": "Mobs"
+    },
+    "Monkey": {
+      "id": 11,
+      "category": "Mobs"
+    },
+    "FirstBot": {
+      "id": 12,
+      "category": "Mobs"
+    },
+    "CleanBot": {
+      "id": 13,
+      "category": "Mobs"
+    },
+    "GuardBot": {
+      "id": 14,
+      "category": "Mobs"
+    },
+    "Ghost": {
+      "id": 15,
+      "category": "Mobs"
+    },
+    "PoisonSpider": {
+      "id": 16,
+      "category": "Mobs"
+    },
+    "BioRaptor": {
+      "id": 17,
+      "category": "Mobs"
+    },
+    "Brood": {
+      "id": 18,
+      "category": "Mobs"
+    },
+    "Guard": {
+      "id": 19,
+      "category": "Mobs"
+    },
+    "Trooper": {
+      "id": 20,
+      "category": "Mobs"
+    },
+    "Chicken": {
+      "id": 21,
+      "category": "Mobs"
+    },
+    "Chemist": {
+      "id": 22,
+      "category": "Mobs"
+    },
+    "Messenger": {
+      "id": 23,
+      "category": "Mobs"
+    },
+    "SlaveTrader": {
+      "id": 25,
+      "category": "Mobs"
+    },
+    "NuuSlave": {
+      "id": 26,
+      "category": "Mobs"
+    },
+    "PixiSlave": {
+      "id": 27,
+      "category": "Mobs"
+    },
+    "GaramSlave": {
+      "id": 28,
+      "category": "Mobs"
+    },
+    "DummyPlayer": {
+      "id": 29,
+      "category": "Mobs"
+    },
+    "Golem": {
+      "id": 30,
+      "category": "Mobs"
+    },
+    "Mantis": {
+      "id": 31,
+      "category": "Mobs"
+    },
+    "Prisoner": {
+      "id": 32,
+      "category": "Mobs"
+    },
+    "SquidLord": {
+      "id": 33,
+      "category": "Mobs"
+    },
+    "Firebat": {
+      "id": 34,
+      "category": "Mobs"
+    },
+    "Car": {
+      "id": 35,
+      "category": "Mobs"
+    }
+  }
+]
